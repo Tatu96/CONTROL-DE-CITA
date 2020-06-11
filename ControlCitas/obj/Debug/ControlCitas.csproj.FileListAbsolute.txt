@@ -1,0 +1,280 @@
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\ControlCitas.dll.config
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\ControlCitas.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\ControlCitas.pdb
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csc.exe
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csc.exe.config
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csc.rsp
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csi.exe
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csi.exe.config
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\csi.rsp
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.AppContext.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Console.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.IO.Compression.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Claims.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.ValueTuple.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\vbc.exe
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\vbc.exe.config
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\vbc.rsp
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CopyComplete
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\obj\Debug\ControlCitas.dll
+C:\Users\rafae\source\repos\ControlCitas\ControlCitas\obj\Debug\ControlCitas.pdb
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\ControlCitas.dll.config
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\ControlCitas.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\ControlCitas.pdb
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csc.exe
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csc.exe.config
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csc.rsp
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csi.exe
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csi.exe.config
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\csi.rsp
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.AppContext.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Console.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Claims.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\vbc.exe
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\vbc.exe.config
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\vbc.rsp
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csprojAssemblyReference.cache
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CoreCompileInputs.cache
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CopyComplete
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\obj\Debug\ControlCitas.dll
+C:\Users\sosa\Desktop\dpweb y progra\programacion2\proyecto de reserva de citas\ControlCitas\ControlCitas\obj\Debug\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\ControlCitas.dll.config
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csi.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csi.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\csi.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.AppContext.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Console.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Claims.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\vbc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\vbc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\vbc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csprojAssemblyReference.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CoreCompileInputs.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CopyComplete
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\obj\Debug\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\ControlCitas\ControlCitas\obj\Debug\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\ControlCitas.dll.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csi.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csi.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\csi.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.AppContext.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Console.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Claims.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\vbc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\vbc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\vbc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csprojAssemblyReference.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CoreCompileInputs.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CopyComplete
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\obj\Debug\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 4\ControlCitas\ControlCitas\obj\Debug\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\ControlCitas.dll.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\ControlCitas.pdb
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csi.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csi.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\csi.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.AppContext.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Console.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.IO.Compression.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Claims.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.ValueTuple.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\vbc.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\vbc.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\vbc.rsp
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csprojAssemblyReference.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CoreCompileInputs.cache
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\obj\Debug\ControlCitas.csproj.CopyComplete
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\obj\Debug\ControlCitas.dll
+C:\Users\sosa\Desktop\Proyecto final progra2\both 6\ControlCitas\ControlCitas\obj\Debug\ControlCitas.pdb
